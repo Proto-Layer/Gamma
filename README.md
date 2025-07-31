@@ -16,10 +16,6 @@ Please also note that this README is incomplete—additional widgets and content
 
 -Kivy
 
--Python 3.11.3
-
--Kivy
-
 ## Overview
 The Gamma project serves as a renderer for M3L (Multi-Media Markup Language) and GSS (Global Style Sheets), designed to deliver a consistent UI experience across various applications. It achieves this by defining the UI structure using M3L and styling it through a GSS file. This system is also integrated within UndChain, a decentralized, cloud-based blockchain platform, where it functions as the UI layer.
 
