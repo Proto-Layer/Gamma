@@ -159,6 +159,12 @@ For long-form content. Contains:
 
 May be expanded into a Book Element with chapters in the future.
 
+#### Graph
+Displays various data visualizations:
+
+- Types: line, bar, pie, scatter, candle
+- Includes: canvas, legend, header, checkboxes, bubbles for hover details
+
 #### Documentation
 Similar to Article, but adds:
 
