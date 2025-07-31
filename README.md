@@ -140,6 +140,9 @@ Used for visualizing relationships or idea mapping. Contains:
 
 Should use Obsidian’s open file format for node data.
 
+#### Card Section
+Creates a layout with three stylized cards on a unique background. Primarily designed for web applications.
+
 #### Hero Section
 A promotional UI block, mainly for web view but usable elsewhere. Should include:
 
